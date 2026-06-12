@@ -1,3 +1,4 @@
+User-agent: *
+Disallow:
 
-
-Sitemap: https://brandsprynt.com/sitemap-index.xml
+Sitemap: https://astrowind.vercel.app/sitemap-index.xml
